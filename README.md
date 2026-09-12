@@ -4,7 +4,7 @@ Task 3: API Security Risk Analysis (postman-echo.com)](#api-security-risk-analys
 
 # API Security Risk Analysis: postman-echo.com
 
-**Date of Assessment:** *[insert date]*  
+**Date of Assessment:** *September 2026*  
 **Tools Used:** Postman  
 **Classification:** 🟡 **Low–Medium Risk**
 
